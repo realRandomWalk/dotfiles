@@ -51,6 +51,7 @@
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
+ '(js-indent-level 2)
  '(package-selected-packages
    (quote
     (markdownfmt multiple-cursors key-chord avy neotree auto-complete yaml-mode web-mode smart-mode-line rainbow-delimiters py-autopep8 elpy magit)))
